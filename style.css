@@ -2,12 +2,12 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f8f8;
+    background-color: #f0f7fb; /* Light blue background */
     color: #333;
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #3498db; /* Dark blue header */
     padding: 15px;
     color: white;
     text-align: center;
@@ -15,14 +15,14 @@ header {
 
 #about-me, #education, #skills, #contact {
     margin: 30px;
-    background-color: #fff;
+    background-color: #ecf0f3; /* Lighter blue content background */
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
-    color: #4CAF50;
+    color: #3498db; /* Dark blue heading */
 }
 
 p, ul {
@@ -40,7 +40,7 @@ ul li {
 }
 
 a {
-    color: #4CAF50;
+    color: #3498db; /* Dark blue link */
     text-decoration: none;
     font-weight: bold;
 }
