@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! I'm Labieb Nekeb, a computer science students based in Cardiff, Wales. With a strong background in mathematics and sciences, I thrive on turning innovative ideas into practical and programmable projects and solutions. My journey in the tech world is fueled by curiosity and a commitment to continuous learning, this has drawn me towards computer science as it is currently the fastest developing field and to be skilled in computer science will certainly be very beneficial in the future. i come from a north african arab background, being from Libya there is a wide 
+Hi there! I'm Labieb Nekeb, a computer science students based in Cardiff, Wales. With a strong background in mathematics and sciences, I thrive on turning innovative ideas into practical and programmable projects and solutions. My journey in the tech world is fueled by curiosity and a commitment to continuous learning, this has drawn me towards computer science as it is currently the fastest developing field and to be skilled in computer science will certainly be very beneficial in the future. I come from a north african arab background, being from Libya the culture is not as advanced and which is why I hope to become a compotent programmer and developer to then benefit my home country in any way.
 
 # Education
 
