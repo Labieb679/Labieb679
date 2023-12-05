@@ -1,7 +1,8 @@
 body {
-    font-family: 'Arial', sans-serif;
-    margin: 20px;
-    background-color: #f2f2f2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
     color: #333;
 }
 
@@ -13,7 +14,11 @@ header {
 }
 
 #about-me, #education, #skills, #contact {
-    margin-bottom: 30px;
+    margin: 30px;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
@@ -42,4 +47,10 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+@media only screen and (max-width: 600px) {
+    #about-me, #education, #skills, #contact {
+        margin: 20px;
+    }
 }
