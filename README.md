@@ -9,7 +9,7 @@ Hi there! I'm Labieb Nekeb, a computer science students based in Cardiff, Wales.
 - **Graduation Year:** 2027
 
 - **Previous Education:** achieved qualifications in A-level: Mathematics, Biology, Product Design and Arabic. 
-- considering the qualifications i had chosen and achieved, it did not dawn upon me that i would be interested in studying computer science, but towards the end of my A-level education i realised that the future of many working fields would lean towards AI and technological development. This created my intrest for computer science and software engineering.
+- considering the qualifications i had chosen and achieved, it did not dawn upon me that i would be interested in studying computer science, but towards the end of my A-level education i realised that the future of many working fields would lean towards AI and technological development. This established my intrest for computer science and software engineering.
   
 # Skills
 
@@ -19,7 +19,7 @@ Hi there! I'm Labieb Nekeb, a computer science students based in Cardiff, Wales.
 # Hobbies
 - **Sporting activities** During my free time i like to stay active in any way which would benefit my health while having fun. Naturally since a young age i have been drawn to all types of sports, while trying to attempt as many sports as possible i took a liking to sports such as:
 - Football, Basketball, Badminton and Tennis.
-- **Wheightlifting** During the majority of educational period i have been consistently attending the gym at least twice a week. This has 
+- **Wheightlifting** During the majority of educational period i have been consistently attending the gym at least twice a week. This has substantially improved my dedication skills and allowed me to develop a stronger sense of commitment.
 
 # Contact
 
